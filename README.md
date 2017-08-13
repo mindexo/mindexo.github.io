@@ -1,2 +1,2 @@
 # mindexo.github.io
-Website for PID Stabilized, Brain Actuated, Exoskeleton
+A website to purchase your very own brain controlled exoskeleton for an extremely affordable cost.
