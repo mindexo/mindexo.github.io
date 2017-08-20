@@ -513,7 +513,7 @@ body {
 #fh5co-faqs,
 #fh5co-footer {
   background-color: #fff;
-  padding: 7em 0;
+  padding: 4em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-features,
@@ -1360,7 +1360,7 @@ body {
 }
 
 .row-bottom-padded-lg {
-  padding-bottom: 7em;
+  padding-bottom: 3em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-lg {
